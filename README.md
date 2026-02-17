@@ -93,3 +93,7 @@ Universitas Gadjah Mada (UGM)
 ## Lisensi
 
 Distribusi kode ini diatur di bawah lisensi **MIT License**.
+
+---
+
+*Repositori ini merupakan bagian dari penelitian tugas akhir/skripsi untuk studi analisis spasial parameter iklim.*
