@@ -90,10 +90,9 @@ Metode ini menghasilkan koreksi yang cepat dan efisien secara komputasi. Berikut
 
 Universitas Gadjah Mada (UGM)
 
-## Lisensi
+## Lisensi & Sitasi
 
-Distribusi kode ini diatur di bawah lisensi **MIT License**.
+Kode ini didistribusikan di bawah **MIT License**.
+Jika Anda menggunakan metode ini untuk penelitian, silakan sitasi repositori ini:
 
----
-
-*Repositori ini merupakan bagian dari penelitian tugas akhir/skripsi untuk studi analisis spasial parameter iklim.*
+> Arifudin, J. (2026). *Koreksi Bias Data CHIRPS: Metode Faktor Koreksi Statis (Static Correction Factor)*. GitHub Repository.
