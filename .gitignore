@@ -1,0 +1,18 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data Files (Jangan upload data besar ke GitHub)
+*.tif
+*.tiff
+*.shp
+*.shx
+*.dbf
+*.csv
+*.prj
+*.geojson
+
+# System files
+.DS_Store
+Thumbs.db
